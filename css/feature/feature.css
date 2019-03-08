@@ -1,0 +1,41 @@
+	a:hover{
+		cursor: pointer;
+	}
+	#main{
+		width:1483px;
+		height:700px;
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	
+	#main h1{
+		margin: 0px;
+		color: white;
+		font-size: 45px;
+		font-weight: normal;
+	}
+	#head .nav div{
+		padding-bot: 10px;
+	}
+	#built{
+		height: 350px;
+		background:#2B3137;
+		text-align: center;
+	}
+	#built h1{
+		padding-top: 7%;
+	}
+	#built .builtpone{
+		margin: auto;
+		width: 45%;
+		padding-top: 2%;
+		padding-bottom: 2%;
+		color:#AAADAF;
+		font-size: 20px;
+	}
+	#built h3{
+		font-weight: normal;
+	}
+	#built h3:hover{
+		cursor: pointer;
+	}

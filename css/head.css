@@ -1,0 +1,202 @@
+body{
+		margin: 0px auto;
+	}
+	a{
+		text-decoration: none;
+		color: white;
+	}
+	a:hover{
+		text-decoration: underline;
+		color: skyblue;
+	}
+	ul{
+		padding: 0;
+		margin: 0;
+	}
+	#head{
+		width: 100%;
+		height: 80px;
+		background-color: #24292E;
+		
+	}
+	#head .mid{
+		width:1480px;
+		height:80px;
+		margin-left: auto;
+		margin-right: auto;
+	
+	}
+	#head .mid .nav{
+		margin-left: 12%;
+		margin-right: 12%;
+	}
+	#head .nav div{
+		height: 50px;
+		width: 110px;
+		float: left;
+	}
+	#head .nav div p:hover{
+		color: #C8C9CB;
+		text-decoration: none;
+	}	
+	#head .nav div ul li{
+		text-align: left;
+		font-weight: normal;
+		margin-left: 20px;
+		margin-right: 20px;
+		margin-top: 10px;
+		padding-bottom: 3px;
+	}
+	#head .nav div ul li a{
+		color: #586069;
+		font-size: 13px;
+	}
+	#head .nav .two div,
+	#head .nav .three div,
+	#head .nav .four div,
+	#head .nav .five div,
+	#head .nav .six div{
+		width: 110px;
+		height: 50px;
+		padding-top:30px;
+		padding-left:5px;
+		text-align: center;
+		font-weight: normal;
+		cursor: default;
+	}
+	#head .nav .two .hideone{
+		background-color: #FFFFFF;
+		height: 800%;
+		width: 250%;
+		padding-top: 15px;
+		border-radius: 5px;
+		z-index: 999;
+		position: relative;
+	}
+	#head .nav .two .hideone .end a{
+		font-weight: bold;
+		color: black;
+	}
+	#head .nav .two .hideone a:hover{
+		text-decoration: underline;
+		color: skyblue;
+	}
+	
+	#head .nav .two div .hideone{
+		display: none;
+	}
+	#head .nav .two div:hover .hideone{
+		display: block;
+	}
+	
+	#head .nav .four .hidetwo{
+		background-color: #FFFFFF;
+		height: 820%;
+		width: 250%;
+		border-radius: 5px;
+		padding-top: 15px;
+		z-index: 999;
+		position: relative;
+	}
+	#head .nav .four .hidetwo a{
+		font-weight: normal;
+		color: black;
+	}
+	#head .nav .four .hidetwo a:hover{
+		text-decoration: underline;
+		color: skyblue;
+	}
+	#head .nav .four div .hidetwo{
+		display: none;
+	}
+	#head .nav .four div:hover .hidetwo{
+		display: block;
+	}
+	
+	#head .nav .six .hidethree{
+		background-color: #FFFFFF;
+		height: 400%;
+		width: 250%;
+		border-radius: 5px;
+		padding-top: 15px;
+		z-index: 999;
+		position: relative;
+	}
+	#head .nav .six .hidethree a{
+		font-weight: normal;
+		color: black;
+	}
+	#head .nav .six .hidethree a:hover{
+		text-decoration: underline;
+		color: skyblue;
+	}
+	#head .nav .six div .hidethree{
+		display: none;
+	}
+	#head .nav .six div:hover .hidethree{
+		display: block;
+	}
+	
+	#head .nav .seven{
+		width: 250px;
+		height: 60px;
+		padding-top: 20px;
+		padding-left:30px;
+		text-align: center;
+	}
+
+	#head .nav .eight{
+		width: 80px;
+		height: 80px;
+		position:relative;
+		padding-left:3px;
+	
+	}
+	#head .nav .eight .eight-in{
+		height: 30px;
+		width: 70px;
+		margin: auto;  
+		position: absolute;  
+		text-align: center;
+		vertical-align: middle;
+		top: 10px; left: 0; bottom: 0; right: 0;
+	}
+	#head .nav .nine{
+		width: 80px;
+		height: 80px;
+		position:relative;
+		padding-left:3px;
+			
+	}
+	#head .nav .nine a:hover{
+		color: #C8C9CB;
+		text-decoration: none;
+	}
+	#head .nav .eight a:hover{
+		color: #C8C9CB;
+		text-decoration: none;
+	}
+	#head .nav .nine .nine-in{
+		height: 30px;
+		width: 70px;
+		margin: auto;  
+		position: absolute;  
+		text-align: center;
+		vertical-align: middle;
+		top: 10px; left: 0; bottom: 0; right: 0;
+		border: solid 1px #FFFFFF;
+		border-radius: 3px;
+	}
+	#head a,img{
+		height: 80px;
+		width: 80px;
+		color: white;
+	}
+	
+	#head h1,h2,h3,h4,h5,h6,p,div{ 
+		color: white;
+		margin: 0px;
+	}
+	#head p{
+		margin-bottom: 10px;
+	}

@@ -1,0 +1,464 @@
+#whole{
+		width:1483px;
+		height:2700px;
+		margin-left: auto;
+		margin-right: auto;
+	}	
+	
+#tihead{
+	text-align: center;
+	background-color: #FAFBFC;
+}
+#tihead h5,h6{
+	padding-top: 2%;
+		color: #586069;
+		font-weight:normal ;
+	}
+#tihead  h1{
+		color: #586069;
+		font-weight: bold;
+		font-size: 54px;
+		margin-top: 1%;
+		margin-bottom: 1%;
+}
+#tihead p{
+	color:#6A7392;
+	width: 60%;
+	margin: auto;
+	padding-bottom: 5%;
+}
+#in{
+	height: 850px;
+	background-color: #FAFBFC;
+	width: 100%;
+}
+#in .mleft{
+	left:10%; top: 35%; right: 0; bottom:0;
+	width:40%;
+	height: 70%;
+	position: absolute;
+	z-index: 900;
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #AAADAF;
+	text-align: center;
+	color: #6A7392;
+}
+#in h4{
+	padding-top: 10%;
+	color: black;
+	text-align: center;
+}
+#in div h3{
+	font-size: 24px;
+	color: black;
+	text-align: center;
+}
+#in .mleft .mleftl,.mleftr{
+	float: left;
+	padding-top: 10%;
+	width: 45%;
+	padding-left: 5%;
+}
+#in .mleft div h2{
+	font-size: 40px;
+	color: black;
+}
+#in .mleft div p{
+	color: #6A7392;
+	width: 60%;
+	font-size: 9px;
+	margin: auto;
+	line-height: 15px;
+	text-align: left;
+}
+#in .mleft .mleftl ul li{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#in .mleft .mleftl ul li img{
+	width: 10%;
+	height: 10%;
+	float: left;
+
+}
+#in .mleft .mleftl ul li p{
+	margin: 0;
+	width: 90%;
+}
+
+#in .mleft ul{
+	padding-left: 5%;
+}
+#in .mleft .mleftr ul li{
+	margin-left: 5%;
+	margin-right: ;
+}
+#in .mleft .mleftr ul li img{
+	width: 10%;
+	height: 10%;
+	float: left;
+	
+}
+#in .mleft .mleftr ul li p{
+	margin: 0;
+	width: 100%;
+	
+}
+#in .mleft .mleftr ul li a{
+	color: #87CEEB;
+	margin: 0;
+	width: 100%;
+	font-size: 9px;
+	text-decoration: underline;
+
+}
+#in .mleft .mleftl .under{
+	margin-top: 10%;
+	margin-left: 13%;
+	font-size: 11px;
+}
+#in .mleft .mleftl .under a{
+	font-size: 11px;
+	color: #87CEEB;
+	text-decoration: underline;
+}
+#in .mleft .mleftl button{
+	margin-top: 10%;
+	width: 75%;
+	height: 50px;
+	background-color: #1277EB;
+	border: none;
+	border-radius: 5px;
+}
+#in .mleft .mleftr button{
+	margin-top: 31.6%;
+	margin-right: 9%;
+	width: 75%;
+	height: 50px;
+	background-color: #1277EB;
+	border: none;
+	border-radius: 5px;
+}
+
+#in .mright{
+	left:48%; top: 40%; right: 0; bottom:0;
+	width:40%;
+	height:90%;
+	position: absolute;
+	z-index: 998;
+	background-color: #032F62;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px 1px #AAADAF;
+}
+
+
+
+#in .mright .mrightl,.mrightr{
+	float: left;
+	padding-top: 10%;
+	width: 43%;
+	padding-left: 8%;
+}
+#in .mright div h2{
+	font-size: 40px;
+	color: black;
+	text-align: center;
+}
+#in .mright div p{
+	color: #FFFFFF;
+	width: 60%;
+	font-size: 9px;
+	margin: auto;
+	line-height: 15px;
+	text-align: left;
+}
+#in .mright .mrightl ul li{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+#in .mright .mrightl ul li img{
+	width: 10%;
+	height: 10%;
+	float: left;
+
+}
+#in .mright .mrightl ul li p{
+	margin: 0;
+	width: 90%;
+}
+
+#in .mright ul{
+	padding-left: 5%;
+}
+#in .mright .mrightr ul li{
+	margin-left: 5%;
+	margin-right: ;
+}
+#in .mright .mrightr ul li img{
+	width: 10%;
+	height: 10%;
+	float: left;
+	
+}
+#in .mright .mrightr ul li p{
+	margin: 0;
+	width: 100%;
+	
+}
+#in .mright .mrightr ul li a{
+	color: #87CEEB;
+	margin: 0;
+	width: 100%;
+	font-size: 9px;
+	text-decoration: underline;
+
+}
+#in .mright .mrightl .under{
+	margin-top: 20%;
+	margin-left: 13%;
+	font-size: 9px;
+}
+#in .mright .mrightl .under a{
+	font-size: 9px;
+	color: #87CEEB;
+	text-decoration: underline;
+}
+#in .mright .mrightl button{
+	margin-top: 10%;
+	width: 75%;
+	height: 50px;
+	background-color: #1277EB;
+	border: none;
+	border-radius: 5px;
+}
+#in .mright .mrightr button{
+	margin-top: 10%;
+	margin-right: 9%;
+	width: 75%;
+	height: 50px;
+	background-color: #1277EB;
+	border: none;
+	border-radius: 5px;
+}
+#in .mright .mrightr .under{
+	margin-left: 13%;
+	margin-top: 8%;
+	
+}
+#in .mright .mrightr .under a{
+	font-size: 9px;
+	color: #87CEEB;
+	text-decoration: underline;
+}
+#whole #three-intro{
+	width: 80%;
+	height: 7%;
+	background-color: #FFFFFF;
+	margin: auto;
+}
+#whole #three-intro div{
+	width: 30%;
+	height: 70%;
+	padding-right: 3%;
+	float: left;
+}
+#whole #three-intro div h3{
+	color: #000000;
+}
+#whole #three-intro div p{
+	padding-top: 3%;
+	color: #6A7392;
+	font-size: 14px;
+}
+#whole #three-intro div p a{
+	color: #87CEEB;
+	
+}
+#whole #three-intro div p a:hover{
+	cursor: pointer;
+}
+#table #tablehead{
+	;
+	text-align: center;
+}
+#table #tablehead h2{
+	color: black;
+ margin-top: 5%;
+	font-size: 36px;
+}
+#table #tablehead  p{
+	padding-top: 1%;
+	color: #6A7392;
+	padding-bottom: 1%;
+}
+#table #tablemain{
+	margin-top: 4%;
+	height: 150px;
+	width: 70%;
+	margin: auto;
+	background-color: #FAFBFC;
+}
+#table #tablemain  div{
+	float: left;
+}
+#table #tablemain .one{
+	height: 100%;
+	width: 24%;
+	
+}
+#table #tablemain .two{
+	height: 100%;
+	width: 38%;
+	color: #000000;
+}
+#table #tablemain .three{
+	height: 100%;
+	width: 38%;
+	background-color: #032F62;
+	color:#FFFFFF;
+}
+#table #tablemain  div .toptop{
+	width: 100%;
+	height: 29%;
+	
+	border-bottom: 0;
+}
+#table #tablemain  div .endend{
+	width: 100%;
+	height: 69%;
+
+	text-align: center;
+	background: #FFFFFF;
+}
+#table #tablemain  div .endend button{
+	width: 70%;
+	margin-top: 10px;
+	background: #0366D6;
+	border-radius: 5px;
+	height: 30px;
+	border: 0;
+	color: white;
+}
+#table #tablemain .two  h5{
+	color: #000000;
+	text-align: center;
+	padding-top: 3%;
+	color: #000000;
+}
+#table #tablemain .two .twoleft,#table #tablemain .two .tworight{
+	width: 50%;
+	height: 100%;
+
+}
+#table #tablemain .two div h3,h4{
+	color: black;
+	padding-top: 5%;
+}
+#table #tablemain .two div p{
+	padding-top: 5%;
+	color: #6A7392;
+	font-size: 12px;
+}
+#table #tablemain .three  h5{
+	color: #000000;
+	text-align: center;
+	padding-top: 3%;
+	color: #FFFFFF;
+}
+
+#table #tablemain .three .threeleft,#table #tablemain .three .threeright{
+	width: 50%;
+	height: 100%;
+
+}
+#table #tablemain .three div .threeh3,.threeh4{
+	color:white;
+	padding-top: 5%;
+}
+#table #tablemain .three div p{
+	padding-top: 5%;
+	color: #6A7392;
+	font-size: 12px;
+}
+#table  .tableinner{
+	width: 70%;
+	margin: auto;
+	background-color: ;
+}
+#table .tableinner .innerh3{
+	color: black;
+	font-weight: normal;
+	height: 30px;
+	padding-bottom: 1%;
+	
+}
+
+#table .tableinnert.tableone li{
+	margin: 0;
+	width: 19%;
+	height: 100px;
+	float:left;
+}
+
+#table .tableinner ul{
+	width:100%;
+	height: 5%;
+	text-align: center;
+	border: solid 1px #032F62;
+}
+#table .tableinner .tableone{
+	width: 100%;
+	height: 60px;
+}
+#table .tableinner div div{
+	height: 50px;
+	width: 19%;
+	float: left;
+	text-align: center;
+}
+#table .tableinner div .tableonly{
+	width: 24%;
+	float: left;
+	height: 50px;
+	margin-bottom: 0;
+}
+#table .tableinner div div div{
+	height: 50%;
+	width: 100%;
+	margin-bottom: 0;
+	border: solid 0.5px #D1D5DA;
+	border-left: none;
+}
+#table .tableinner div div div h4{
+	font-weight: normal;
+	height: 100%;
+	padding-top: 0;
+	font-size: 14px;
+	
+}
+#table .tableinner div .tablenormal2 h4{
+	 background-color: #032F62;
+	 color: white;
+}
+#table .tableinner .tabletwo{
+	width: 100%;
+	height: 130px;
+}
+#table .tableinner div .tableonly h4{
+	padding-top: 1%;
+	text-align: left;
+	color: #6A7392;
+}
+#table .tableinner .tablethree{
+	width: 100%;
+	height: 220px;
+}
+#table .tableinner .tablefour{
+	width: 100%;
+	height: 220px;
+}
+#table .tableinner div img{
+	height: 20px;
+	width: 20px;
+}

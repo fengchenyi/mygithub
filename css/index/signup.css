@@ -1,0 +1,180 @@
+	
+		body{
+			background-color:#F9F9F9;
+		}
+		#main{
+			width:1483px;
+			height:900px;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		#main #head{
+			background-color: #F9F9F9;
+			padding-top: 2%;
+			width: 70%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		#main #head h1{
+			font-weight: normal;
+			color: black;
+		}
+		#main #head .headp{
+			font-weight: lighter;
+			font-size: 20px;
+			color: #AAADAF;
+		}
+		#main #step{
+			margin-top:2%;
+			width: 70%;
+			height: 7%;
+			margin-left: auto;
+			margin-right: auto;
+			
+		}
+		#main #step div{
+			float: left;
+			width:28%;
+			height:100%;
+			border: solid 1px #AAADAF;
+			border-radius: 5px;
+			background-color: white;
+		} 
+		#main #step div img{
+				float: left;
+			height: 60%;
+			width: 15%;
+			padding-left: 2%;
+			padding-right:4%;
+			padding-top:4%;
+		}
+		#main #step div h4,.stepp{
+			margin-top: 2%;
+			float: left;
+			width: 70%;
+			color: black;
+			font-size: 15px;
+			margin-left: 0px;
+		}
+		#main #text {
+			height:70%;
+			width:70%;
+			margin-top: 3%;
+			margin-bottom: 3%;
+			margin-left: auto;
+			margin-right: auto;
+		
+		}
+		#main #text #textleft{
+			height: 100%;
+			width: 65%;
+			float:left;
+
+		}
+		#main #text #textleft h3{
+			font-weight: lighter;
+			font-size: 25px;
+			color: black;
+			
+			padding-top: 3%;
+			padding-bottom: 3%;
+		}
+		#main #text #textright{
+			height: 100%;
+			width: 30%;
+			float:left;
+		}
+		#main #text #textleft h4,.textp{
+			color: black;
+			padding-bottom: 1%;
+		}
+		#main #text #textleft input{
+			width: 70%;
+			height:30px;
+			border-radius: 5px;
+			border:solid 1px #D1D5DA;
+			margin-top: 1%;
+			margin-bottom: 1%;
+		}
+		#main #text #textleft .textp{
+			width: 70%;
+			font-size: 12px;
+			color: #6A7392;
+		}
+		#main #text #textleft .textp a{
+			font-size: 12px;
+			color: #87CEEB;
+		}
+		#main #text #textleft .textp a:hover{
+			text-decoration: underline;
+		}
+		#main #text #textleft #end{
+			margin-top: 2%;
+			height:30%;
+			width: 70%;
+
+		}
+		#main #text #textleft #end #head{
+			height: 30%;
+			width: 100%;
+			margin-left: 0px;
+			margin-right: 0px;
+			border-bottom: solid 1px #D1D5DA;
+			border-top: solid 1px #D1D5DA;
+		}
+		#main #text #textleft #end #head .textleftendheadp{
+			color: black;
+			font-size: 12px;
+			padding-top: 1%;
+		}
+		#main #text #textleft #end #head a{
+			color: #87CEEB;
+			font-size: 12px;
+		}
+		#main #text #textleft #end #foot button{
+			margin-top: 5%;
+			width: 35%;
+			height: 30px;
+			border-radius: 3px;
+			border: solid 1px #AAADAF;
+			background-color:#2EBC4F;
+		}
+		#main #text #textright #rightG{
+			margin-top: 10%;
+			height: 35%;
+			width: 65%;
+			border: solid 1px #AAADAF;
+			border-radius: 3px;
+		}
+		#main #text #textright #rightG h3{
+			color: #000000;
+			padding-top: 4%;
+			padding-bottom: 4%;
+			padding-left: 10%;
+			font-size:15px;
+			
+		}
+		#main #text #textright #rightG div{
+			width: 100%;
+			height: 30%;
+			border-bottom: solid 1px #AAADAF;
+			border-top: solid 1px #AAADAF;
+			
+		}
+		#main #text #textright #rightG div p{
+			font-size: 12px;
+			padding-left: 8%;
+			padding-top: 5%;
+			color: black;
+		}
+		#main #text #textright #rightG ul{
+			list-style: none;
+			margin-top: 10%;
+		}
+		#main #text #textright #rightG ul li{
+			font-size: 12px;
+			margin-top: 4%;
+			color: black;
+			padding-left: 8%;
+		
+		}

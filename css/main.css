@@ -1,0 +1,77 @@
+	button:hover{
+		cursor: pointer;
+	}
+	#main{
+		width:1483px;
+		height:1100px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#main h1{
+		margin: 0px;
+	}
+	.built{
+		height: 650px;
+		background:#2B3137;
+	}
+	.built .text{
+		width: 60%;
+		height: 650px;
+		float: left;
+	}
+	.built h1{
+		font-size: 400%;
+		font-weight: normal;
+		padding-left: 30%;
+		padding-top: 15%;
+	}
+	.built .text p{
+		color: #AAADAF;
+		padding-left: 29.5%;
+		font-size: 21px;
+		margin: 10px;
+	}
+	.built .text a{
+		color: white;
+		font-size: 21px;
+	}
+	.built .fsign{
+		width: 40%;
+		height: 650px;
+		float: left;
+	}
+	.built .fsign .intext{
+		height: 500px;
+		width: 400px;
+		background: white;
+		margin-top: 12%;
+		border-radius: 5px;
+	}
+	.built .fsign .intext .Tsign{
+		height: 15%;
+		background-color:#2EBC4F ;
+		font-size: 20px;
+		color: #FFFFFF;
+	}
+	.built .fsign p{
+		color: #586069;
+		font-size: 11px;
+		line-height: 17px;
+		padding-top: 10%;
+		padding-left: 9%;
+		padding-right: 9%;
+	}
+	.built .fsign p a{
+		
+		font-size: 11px;
+	
+	}
+	.built .fsign input{
+		width:80%;
+		height: 8%;
+		margin-left:9%;
+		margin-top: 1%;
+		margin-bottom:1%;
+		border-radius: 6px;
+		border: solid 1px #D1D5DA;
+	}

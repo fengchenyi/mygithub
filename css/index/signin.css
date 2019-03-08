@@ -1,0 +1,112 @@
+	body{
+	background-color:#F9F9F9;
+	}
+	#main{
+		width:1483px;
+		height:1100px;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	#main #top{
+		height: 15%;
+		width: 25%;
+		margin: auto;
+	}
+	#main #top img{
+		padding-top: 3%;
+		padding-bottom: 5%;
+		height: 40%;
+		width: 20%;
+	}
+	#main #top h2{
+		margin: 0;
+		color: #586069;
+		font-weight: lighter;
+	}
+	#main #mid{
+		height: 25%;
+		width: 23%;
+		background-color: white;
+		margin: auto;
+		border-radius: 5px;
+		border:solid 1px #D1D5DA;
+	}
+	#main #mid h4{
+		margin: 0;
+		padding-left: 10%;
+		padding-top: 8%;
+		font-weight: normal;
+		text-align: left;
+	}
+
+	#main #mid a{
+		width: 35%;
+		float: left;
+		font-size: 10px;
+		padding-top: 10%;
+		text-decoration: none;
+
+	}
+	#main #mid a:hover{
+		text-decoration:underline;
+	}
+	#main #mid input{
+		width: 80%;
+		margin-top: 3%;
+		height:30px;
+		border-radius: 5px;
+		border: solid 1px #D1D5DA;
+	}
+	#main #mid button{
+		margin-top: 7%;
+		width: 81%;
+		height: 35px;
+		border-radius: 5px;
+		border: solid 1px #D1D5DA;
+		color: white;
+		font-size: 15px;
+		background-color: #2EBC4F;
+	}
+	#main #mid button:hover{
+		cursor: pointer;
+	}
+	#main #bot{
+		height: 5%;
+		width: 23%;
+		border-radius: 5px;
+		border:solid 1px #D1D5DA;
+		margin: auto;
+		margin-top: 3%;
+		font-size: 13px;
+	}
+	#main #bot p{
+		float: left;
+		width: 40%;
+		padding-left: 10%;
+		margin-top:5%;
+		text-align: right;
+	}
+	#main #bot a{
+		margin-top:5%;
+		float: left;
+		width: 50%;
+		color: #1277EB;
+		text-align: left;
+	}
+	#main #bot a:hover{
+		text-decoration: underline;
+		cursor: pointer;
+	}
+	#main #end{
+		margin-top: 5%;
+		font-size: 11px;
+	}
+	#main #end a{
+		padding-right: 1%;
+		color: #1277EB;
+	}
+	#main #end a:hover{
+		text-decoration: underline;
+		cursor: pointer;
+	}
